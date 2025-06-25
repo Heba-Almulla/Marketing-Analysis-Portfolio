@@ -18,7 +18,7 @@ It demonstrates practical capabilities in:
 
 ---
 
-## 🛠 Data Preparation (SQL)
+## Data Preparation (SQL)
 
 The SQL script performs:
 - 🏷 **Product Categorization** by price bands (Low, Medium, High)
