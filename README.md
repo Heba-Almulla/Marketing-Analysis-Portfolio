@@ -78,6 +78,30 @@ The notebook:
 - Buckets compound scores into sentiment ranges:
   - `0.5 to 1.0`, `0.0 to 0.49`, `-0.49 to 0.0`, `-1.0 to -0.5`
 
-📤 **Output saved as CSV**:
-```python
-fact_customer_reviews_with_sentiment.csv
+📤 **Output Saved as CSV**:
+The sentiment analysis results are saved in the file `fact_customer_reviews_with_sentiment.csv`. 
+This CSV contains customer reviews along with their sentiment classifications and scores, which can be used for further analysis.
+
+💡 **Key Skills Demonstrated**
+
+- SQL for data wrangling & transformation
+- Power BI for insight delivery
+- NLP with Python (VADER)
+- End-to-end pipeline from raw data to sentiment-based insight
+
+🚀 **How to Run**
+
+- SQL
+Run Data-Preparation-Queries.sql in your SQL environment.
+- Power BI
+Open Markting-Analysis-Dashboared.pbix in Power BI Desktop.
+Refresh the data model if connected to local SQL server.
+- Python
+Run Sentiment-Analysis.ipynb in Jupyter or any notebook tool.
+
+👤 **Author**
+
+**Heba Almulla**  
+*Data Analyst | Data Scientist | BI Developer*  
+[GitHub Profile](https://github.com/Heba-Almulla) 
+[LinkedIn Profile](www.linkedin.com/in/heba-kh-almulla)
