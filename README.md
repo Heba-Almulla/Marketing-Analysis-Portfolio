@@ -1,6 +1,6 @@
 # Data Analyst Portfolio Project – Marketing Analytics
 
-This repository showcases a complete **end-to-end analytics project** combining 
+This repository showcases a complete **end-to-end marketing analytics project** combining: 
 - **SQL-based data preparation**
 - **Power BI interactive dashboards** 
 - **Python-powered sentiment analysis**
@@ -31,7 +31,7 @@ This project solves those challenges by building a full-stack analytical workflo
 | File | Description |
 |------|-------------|
 | `Data-Preparation-Queries.sql` | SQL scripts to clean, enrich, and normalize multiple datasets: product, customer, review, engagement, and customer journey. |
-| `Markting-Analysis-Dashboared.pbix` | Power BI dashboard visualizing KPIs, conversion metrics, sentiment trends, and customer engagement. |
+| `Marketing-Analysis-Dashboard.pbix` | Power BI dashboard visualizing KPIs, conversion metrics, sentiment trends, and customer engagement. |
 | `Sentiment-Analysis.ipynb` | Python notebook using VADER to analyze customer reviews and classify them by sentiment category and score. |
 
 ---
@@ -39,11 +39,11 @@ This project solves those challenges by building a full-stack analytical workflo
 ## Data Preparation (SQL)
 
 The SQL script performs:
-- 🏷 **Product Categorization** by price bands (Low, Medium, High)
-- 🌍 **Customer Enrichment** using geography and age segmentation
-- ✍️ **Review Cleaning** by removing extra spaces
-- 📊 **Engagement Normalization** by extracting views/clicks from mixed strings
-- 🔁 **Clean Customer Journey Data** by removing duplicates and intelligently filling missing durations — first using the average for that date, then falling back to the overall average if needed
+- **Product Categorization** by price bands (Low, Medium, High)
+- **Customer Enrichment** using geography and age segmentation
+- **Review Cleaning** by removing extra spaces
+- **Engagement Normalization** by extracting views/clicks from mixed strings
+- **Clean Customer Journey Data** by removing duplicates and intelligently filling missing durations — first using the average for that date, then falling back to the overall average if needed
 
 
 ✔️ **Output Preview:**
@@ -113,16 +113,16 @@ The sentiment analysis results are saved in the file:
 - SQL
 Run Data-Preparation-Queries.sql in your SQL environment.
 - Power BI
-Open Markting-Analysis-Dashboared.pbix in Power BI Desktop.
+Open Marketing-Analysis-Dashboard.pbix in Power BI Desktop.
 Refresh the data model if connected to local SQL server.
 - Python
 Run Sentiment-Analysis.ipynb in Jupyter or any notebook tool.
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-👤 **Author**
+## 👤 Author
 
 **Heba Almulla**  
 *Data Analyst | Data Scientist | BI Developer*  
