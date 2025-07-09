@@ -73,13 +73,13 @@ The sentiment analysis results are saved in the file:
 
 ## Dashboard Overview (Power BI)
 
-### 🔹 **Overview Page**
+### 🔹 **Marketing Overview Page**
 - **Conversion Rate:** 9.57%
 - **Social Media Metrics:** 2M Clicks, 414K Likes, 9M Views
 - **Customer Reviews:** 1,363 reviews analyzed
 - **Top Conversion Products:** Hockey Stick (15.5%), Ski Boots (14.6%)
 
-### 🔹 **Product Conversion Insights**
+### 🔹 ** Conversion & Campaign Performance Page**
 - Filterable by product name and campaign year/month
 - Conversion by content type (Blog, Social, Video)
 - **Customer Journey Breakdown:**
@@ -88,7 +88,7 @@ The sentiment analysis results are saved in the file:
   - 15.2% Drop-offs
   - 5.0% Purchases
 
-### 🔹 **Customer Review Insights**
+### 🔹 **Customer Feedback Insights**
 - **Sentiment Category Breakdown**:
   - Positive: 840
   - Negative: 226
