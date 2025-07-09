@@ -126,5 +126,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Heba Almulla**  
 *Data Analyst | Data Scientist | BI Developer*  
-[GitHub Profile](https://github.com/Heba-Almulla) 
 [LinkedIn Profile](www.linkedin.com/in/heba-kh-almulla)
